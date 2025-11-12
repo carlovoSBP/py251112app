@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/schubergphilis/paleofuturistic_python",
+  "commit": "dfdf14a552e495ca99a7aa10a5d8a3b34832acad",
+  "checkout": "latest",
+  "context": {
+    "cookiecutter": {
+      "project_name": "py251112app",
+      "project_slug": "py251112app",
+      "project_description": "Development flow as Paleofuturistic Python",
+      "full_name": "Paleofuturistic Python",
+      "email": "me@here.now",
+      "python_version": "3.12",
+      "_template": "https://github.com/schubergphilis/paleofuturistic_python",
+      "_commit": "dfdf14a552e495ca99a7aa10a5d8a3b34832acad"
+    }
+  },
+  "directory": null
+}
